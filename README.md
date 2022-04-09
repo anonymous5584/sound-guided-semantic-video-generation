@@ -18,14 +18,16 @@ See the official StyleGAN3 repository for installation.
 Download the high fidelity landscape dataset from the link.  
 
 ## Training.
+Pre-trained StyleGAN3 Generator : link
 ```
-python3 train_video.py
+python3 train_sound2video.py
 ```
 
 
 ## Generation.
+Pre-trained Video Generator : link
 ```
-python3 gen_video.py
+python3 gen_sound2video.py
 ```
 
 ## Results
