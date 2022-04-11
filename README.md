@@ -1,6 +1,6 @@
 ##  Sound-guided Semantic Video Generation
 
-![Teaser image](https://kr.object.ncloudstorage.com/eccv2022/homepage/title.png)
+![Teaser image](https://kr.object.ncloudstorage.com/eccv2022/homepage/title.jpg)
 
 **Sound-guided Semantic Video Generation**<br>
  
