@@ -15,7 +15,7 @@ We provide the new high-resolution landscape video dataset (audio-visual pair) f
 See the official StyleGAN3 repository for installation.
 
 ## Dataset
-Download the high fidelity landscape dataset from the link.  
+Download the high fidelity landscape dataset from the [link](https://docs.google.com/spreadsheets/d/1FSkigzc7F0SfatTc8YGyVg23uSg6c3kou6e-a6tpB_I/edit?usp=sharing).  
 
 ## Training.
 Pre-trained StyleGAN3 Generator : link
@@ -25,7 +25,12 @@ python3 train_sound2video.py
 
 
 ## Generation.
-Pre-trained Video Generator : link
+Pre-trained Video Generator
+
+Audio encoder : [link](https://kr.object.ncloudstorage.com/eccv2022/weights/audio_inversion_.pth)
+
+Generator : [link1](https://kr.object.ncloudstorage.com/eccv2022/weights/coarseformer_.pth) [link2](https://kr.object.ncloudstorage.com/eccv2022/weights/fineformer_.pth) [link3](https://kr.object.ncloudstorage.com/eccv2022/weights/midformer_.pth)
+
 ```
 python3 gen_sound2video.py
 ```
